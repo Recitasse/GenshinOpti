@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnage>
+    <name>Amber</name>
+    <aptitudes>
+        <attaques>
+            <nombre>5</nombre>
+            <scope>1</scope>
+            <config>
+                <dgt1 delais=""/>
+                <dgt2 delais=""/>
+                <dgt3 delais=""/>
+                <dgt4 delais=""/>
+                <scope delais=""/>
+                <charge delais=""/>
+                <fall_low delais=""/>
+                <fall_high delais=""/>
+                <elemental_skill delais=""/>
+                <elemental_burst delais=""/>
+            </config>
+            <niveaux>
+                <niveau lvl="1">
+                    <dgt1>36.1</dgt1>
+                    <dgt2>36.1</dgt2>
+                    <dgt3>46.4</dgt3>
+                    <dgt4>47.3</dgt4>
+                    <dgt5>59.3</dgt5>
+                    <scope>43.9</scope>
+                    <charge>124</charge>
+                    <on_fall>56.8</on_fall>
+                    <fall_low>114</fall_low>
+                    <fall_high>142</fall_high>
+                </niveau>
+                <niveau lvl="2">
+                    <dgt1>39.1</dgt1>
+                    <dgt2>39.1</dgt2>
+                    <dgt3>50.2</dgt3>
+                    <dgt4>51.2</dgt4>
+                    <dgt5>64.2</dgt5>
+                    <scope>47.4</scope>
+                    <charge>133</charge>
+                    <on_fall>61.5</on_fall>
+                    <fall_low>123</fall_low>
+                    <fall_high>153</fall_high>
+                </niveau>
+                <niveau lvl="3">
+                    <dgt1>42</dgt1>
+                    <dgt2>42</dgt2>
+                    <dgt3>54</dgt3>
+                    <dgt4>55</dgt4>
+                    <dgt5>69</dgt5>
+                    <scope>51</scope>
+                    <charge>143</charge>
+                    <on_fall>66.1</on_fall>
+                    <fall_low>132</fall_low>
+                    <fall_high>165</fall_high>
+                </niveau>
+                <niveau lvl="4">
+                    <dgt1>46.2</dgt1>
+                    <dgt2>46.2</dgt2>
+                    <dgt3>59.4</dgt3>
+                    <dgt4>60.5</dgt4>
+                    <dgt5>75.9</dgt5>
+                    <scope>56.1</scope>
+                    <charge>155</charge>
+                    <on_fall>72.7</on_fall>
+                    <fall_low>145</fall_low>
+                    <fall_high>182</fall_high>
+                </niveau>
+                <niveau lvl="5">
+                    <dgt1>49.1</dgt1>
+                    <dgt2>49.1</dgt2>
+                    <dgt3>63.2</dgt3>
+                    <dgt4>64.4</dgt4>
+                    <dgt5>80.7</dgt5>
+                    <scope>59.7</scope>
+                    <charge>174</charge>
+                    <on_fall>82.6</on_fall>
+                    <fall_low>155</fall_low>
+                    <fall_high>193</fall_high>
+                </niveau>
+                <niveau lvl="6">
+                    <dgt1>52.5</dgt1>
+                    <dgt2>52.5</dgt2>
+                    <dgt3>67.5</dgt3>
+                    <dgt4>68.8</dgt4>
+                    <dgt5>86.3</dgt5>
+                    <scope>63.8</scope>
+                    <charge>174</charge>
+                    <on_fall>82.6</on_fall>
+                    <fall_low>165</fall_low>
+                    <fall_high>206</fall_high>
+                </niveau>
+                <niveau lvl="7">
+                    <dgt1>57.1</dgt1>
+                    <dgt2>57.1</dgt2>
+                    <dgt3>73.4</dgt3>
+                    <dgt4>74.8</dgt4>
+                    <dgt5>93.8</dgt5>
+                    <scope>69.4</scope>
+                    <charge>186</charge>
+                    <on_fall>89.9</on_fall>
+                    <fall_low>180</fall_low>
+                    <fall_high>224</fall_high>
+                </niveau>
+                <niveau lvl="8">
+                    <dgt1>61.7</dgt1>
+                    <dgt2>61.7</dgt2>
+                    <dgt3>79.4</dgt3>
+                    <dgt4>80.9</dgt4>
+                    <dgt5>101</dgt5>
+                    <scope>75</scope>
+                    <charge>198</charge>
+                    <on_fall>97.1</on_fall>
+                    <fall_low>194</fall_low>
+                    <fall_high>243</fall_high>
+                </niveau>
+                <niveau lvl="8">
+                    <dgt1>66.4</dgt1>
+                    <dgt2>66.4</dgt2>
+                    <dgt3>85.3</dgt3>
+                    <dgt4>86.9</dgt4>
+                    <dgt5>109</dgt5>
+                    <scope>80.6</scope>
+                    <charge>211</charge>
+                    <on_fall>104</on_fall>
+                    <fall_low>209</fall_low>
+                    <fall_high>261</fall_high>
+                </niveau>
+            </niveaux>
+        </attaques>
+    </aptitudes>
+    <statistique>
+        <niveaux>
+            <niveau lvl="1">
+                <pv>793</pv>
+                <atq>19</atq>
+                <def>50</def>
+                <b_atq>0</b_atq>
+            </niveau>
+            <niveau lvl="20">
+                <pv>2630</pv>
+                <atq>62</atq>
+                <def>167</def>
+                <b_atq>0</b_atq>
+            </niveau>
+            <niveau lvl="40">
+                <pv>4361</pv>
+                <atq>103</atq>
+                <def>277</def>
+                <b_atq>6</b_atq>
+            </niveau>
+            <niveau lvl="50">
+                <pv>5578</pv>
+                <atq>131</atq>
+                <def>354</def>
+                <b_atq>12</b_atq>
+            </niveau>
+            <niveau lvl="60">
+                <pv>6654</pv>
+                <atq>157</atq>
+                <def>422</def>
+                <b_atq>12</b_atq>
+            </niveau>
+            <niveau lvl="70">
+                <pv>7730</pv>
+                <atq>182</atq>
+                <def>491</def>
+                <b_atq>18</b_atq>
+            </niveau>
+            <niveau lvl="80">
+                <pv>8806</pv>
+                <atq>208</atq>
+                <def>559</def>
+                <b_atq>24</b_atq>
+            </niveau>
+            <niveau lvl="90">
+                <pv>9461</pv>
+                <atq>223</atq>
+                <def>601</def>
+                <b_atq>24</b_atq>
+            </niveau>
+        </niveaux>
+    </statistique>
+    <metadata>
+        <version>1.0</version>
+        <release>28/09/2020</release>
+        <location>Mondstadt</location>
+        <gender>Woman</gender>
+        <size>Normal</size>
+    </metadata>
+</personnage>

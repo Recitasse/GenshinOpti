@@ -1,0 +1,25 @@
+{
+  "bonus" : {
+    "dgt" : {
+      "physique" : "",
+      "anemo": "",
+      "geo": "",
+      "electro": "",
+      "dendro": "",
+      "hydro": "",
+      "pyro": "",
+      "cryo": ""
+    },
+    "def": {
+      "soin": "",
+      "f_bouclier": "",
+      "anemo": "",
+      "geo": "",
+      "electro": "",
+      "dendro": "",
+      "hydro": "",
+      "pyro": "",
+      "cryo": ""
+    }
+  }
+}
